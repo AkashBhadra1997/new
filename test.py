@@ -35,4 +35,15 @@ l = []
 # row_count = driver.find_elements("xpath",'//table[@name="os"]//tr')
 # print(len(row_count))
 
+def akash():
+    return "nothing"
 
+def sonu():
+    return "something"
+
+def akash1():
+    return "nothing"
+
+
+def sonu1():
+    return "something"
